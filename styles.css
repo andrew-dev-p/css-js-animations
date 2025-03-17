@@ -5,6 +5,10 @@
   font-family: Arial, sans-serif;
 }
 
+body {
+  background: linear-gradient(135deg, #f0f2f5 0%, #bbc1cc 50%, #8a8f99 100%);
+}
+
 .container {
   max-width: 900px;
   margin: 40px auto;
@@ -12,9 +16,8 @@
 }
 
 .title {
-  font-size: 2rem;
+  font-size: 4rem;
   font-weight: bold;
-  color: #fff;
   margin-bottom: 20px;
 }
 

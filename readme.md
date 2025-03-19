@@ -21,7 +21,7 @@ This project is a **collection of interactive animations and hover effects** cre
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repository-name.git
+   git clone https://github.com/andrew-dev-p/css-js-animations.git
    ```
 2. **Open ****************`index.html`**************** in a browser**
 3. **Explore the animations by hovering and clicking on elements**
